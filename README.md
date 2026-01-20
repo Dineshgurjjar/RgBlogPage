@@ -17,7 +17,6 @@ Official website for **RG Consultancy Services Pvt. Ltd.**
 ## 🛠️ Installation
 
 ```bash
-git clone https://github.com/your-username/rgcs-website.git
-cd rgcs-website
+
 npm install
 npm run dev
