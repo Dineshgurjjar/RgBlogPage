@@ -56,7 +56,7 @@ const RGCSServices = () => {
     <div className="bg-gradient-to-br from-gray-50 to-blue-50 min-h-screen py-14 px-4">
       <div className="max-w-7xl mx-auto bg-white shadow-xl rounded-3xl p-10">
 
-        {/* Header */}
+   
         <h1 className="text-4xl md:text-5xl font-bold text-center text-blue-900">
           Our Services & Products
         </h1>
@@ -66,7 +66,6 @@ const RGCSServices = () => {
 
         <div className="border-b my-10" />
 
-        {/* Services */}
         <section>
           <h2 className="text-3xl font-semibold text-blue-800 mb-8">
             Our Services
@@ -99,7 +98,7 @@ const RGCSServices = () => {
           </div>
         </section>
 
-        {/* Products */}
+     
         <section className="mt-16">
           <h2 className="text-3xl font-semibold text-blue-800 mb-8">
             Our Products
@@ -128,7 +127,7 @@ const RGCSServices = () => {
           </div>
         </section>
 
-        {/* Back Button */}
+  
         <div className="mt-16 text-center">
           <Link
             to="/"

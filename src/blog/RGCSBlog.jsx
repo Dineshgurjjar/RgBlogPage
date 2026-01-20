@@ -116,11 +116,8 @@ const RGCSAbout = () => {
             improve efficiency, and drive innovation.
           </p>
 
-          <Link
-            to="/services"
-            className="inline-block mt-6 bg-white text-blue-900 px-8 py-3
-            rounded-xl text-lg font-semibold transition hover:scale-105"
-          >
+          <Link to="/services" className="inline-block mt-6 bg-white text-blue-900 px-8 py-3 rounded-xl text-lg font-semibold transition hover:scale-105"
+>
             View Our Services & Products →
           </Link>
         </section>
